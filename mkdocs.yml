@@ -2,4 +2,5 @@ site_name: Codex Vinum
 nav:
     - Home: index.md
     - About: about.md
+    - Basics: basics.md
 theme: readthedocs

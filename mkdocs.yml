@@ -1,6 +1,22 @@
 site_name: Codex Vinum
+site_description: Manual
+site_author: Edwin Bühler
 nav:
     - Home: index.md
     - About: about.md
     - Basics: basics.md
+    - Wine:
+        - 'Wine Borwser': wines.md
+        - Wine: wine.md
+        - Tastings: tastings.md
+    - Cellar:
+        - Cellar: cellar/cellar.md
+        - Purchases: cellar/purchases.md
+        - Consumptions: cellar/consumptions.md
+        - Bottles: cellar/bottles.md
+    - Addresses: addresses.md
+    - Resources: resources.md
 theme: readthedocs
+#    name: null
+#    custom_dir: themes/mkdocs_alabaster
+# readthedocs

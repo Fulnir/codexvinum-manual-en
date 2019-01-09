@@ -3,7 +3,6 @@ site_description: Manual
 site_author: Edwin Bühler
 nav:
     - Home: index.md
-    - About: about.md
     - Basics: basics.md
     - Wine:
         - 'Wine Borwser': wines.md
@@ -16,7 +15,9 @@ nav:
         - Bottles: cellar/bottles.md
     - Addresses: addresses.md
     - Resources: resources.md
-theme: readthedocs
-#    name: null
-#    custom_dir: themes/mkdocs_alabaster
+    - About: about.md
+#theme: readthedocs
+theme:
+    name: null
+    custom_dir: themes/cinder
 # readthedocs

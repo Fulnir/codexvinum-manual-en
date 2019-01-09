@@ -16,8 +16,8 @@ nav:
     - Addresses: addresses.md
     - Resources: resources.md
     - About: about.md
-#theme: readthedocs
+#theme: readthedocs 
 theme:
     name: null
-    custom_dir: themes/cinder
+    custom_dir: themes/codex_vinum
 # readthedocs
